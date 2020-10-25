@@ -44,9 +44,9 @@ A method to use the dataset to train the prediction model by Artificial Neural N
 ## Results
 #### Accuracy: 80.26%
 #### Confusion Matrix
-![](https://github.com/ArthurShen8118/Stock_Analytics/blob/main/Readme_images/Figure_1.png)
-#### We got the following accuracy/loss training curve plot
 ![](https://github.com/ArthurShen8118/Stock_Analytics/blob/main/Readme_images/Figure_2.png)
+#### We got the following accuracy/loss training curve plot
+![](https://github.com/ArthurShen8118/Stock_Analytics/blob/main/Readme_images/Figure_1.png)
 
 ![](https://github.com/ArthurShen8118/Stock_Analytics/blob/main/Readme_images/Figure_4.png)
 ## Owner
